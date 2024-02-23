@@ -58,7 +58,7 @@ h3 a:focus {
 
 /* Hero banner styling */
 .grid-hero {
-    background-image: url("images/hero-img.jpg");
+    background-image: url("../images/hero-img.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     display: grid;
